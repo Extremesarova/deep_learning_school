@@ -16,3 +16,5 @@ torchaudio==0.11.0+cu113
 torchvision==0.12.0+cu113
 torchsummary==1.5.1
 opencv-python==4.5.5.64
+nltk==3.7
+bokeh==2.4.2
